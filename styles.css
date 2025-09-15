@@ -29,6 +29,12 @@ input{
 .signup{
 	background-color: #42b72a;
 }
+#email{
+	background-color:#1877f2;
+	border-radius:5px;
+	padding:10px 20px;
+	width:100%;
+}
 
 button{
 	background-color:#1877f2;
